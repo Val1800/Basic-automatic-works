@@ -43,7 +43,7 @@ import time
 
 time.sleep(7.0)
 p.hotkey("ctrl","t")
-p.write("https://www.youtube.com/watch?v=AsrzqSJd8jo&ab_channel=PeriodistaGen%C3%A9rico")
+p.write("https://www.youtube.com/watch?v=H7ROmK_nOoE&ab_channel=MemesRandomAF")
 p.press("enter")
 
 time.sleep(7.0)
